@@ -1,0 +1,9 @@
+#install graphviz
+
+http://www.graphviz.org/
+
+#awk should be installed, but if not you'll need that
+
+bash render.sh [filename]
+
+bash render.sh testing_edgelist.csv
